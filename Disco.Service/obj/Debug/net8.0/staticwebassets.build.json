@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "XQtDt7mksyUhLxjA0sI7hhHvEHnZ++CtZfnfEkl81WE=",
+  "Source": "Disco.Service",
+  "BasePath": "_content/Disco.Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
