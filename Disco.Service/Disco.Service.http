@@ -1,0 +1,10 @@
+@Disco.Service_HostAddress = http://localhost:5259
+
+### Get all musician
+GET {{Disco.Service_HostAddress}}/api/{{version}}/authors
+Accept: application/json
+
+### GET {{Album.Service_HostAddress}}/weatherforecast/
+### Accept: application/json
+
+###
